@@ -2,6 +2,9 @@
 
 A procedural, Geometry Nodes-based Blender addon that generates a customizable **Wankel (Rotary) Engine** assembly. This tool creates both the epitrochoid housing and the inner rotor
 
+**For blender 4.0.0+**
+
+**- tested on 4.0.1, 5.0.0**
 
 ## 🚀 Features
 - **Procedural Housing:** Generates a epitrochoid inner chamber based on radius and eccentricity.
